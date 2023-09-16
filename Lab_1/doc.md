@@ -244,11 +244,11 @@ UNIX знакомство: useradd, nano, chmod, docker, GIT, CI, C
 1. Создать репозиторий в GitHub или GitLab
     Создаем репозиторий на гитхабе, на машине выполняем
     ```commandline
-    mkdir Unix2022
-    cd Unix2022
+    mkdir Unix2023
+    cd Unix2023
     git init
     git commit
-    git remote add origin https://github.com/djiboshin/Unix2022.git
+    git remote add origin https://github.com/Vin0grad/Unix2023.git
     git branch -M dev
     git push -u origin dev
     ```
@@ -293,9 +293,9 @@ UNIX знакомство: useradd, nano, chmod, docker, GIT, CI, C
     Total 0 (delta 0), reused 0 (delta 0)
     remote:
     remote: Create a pull request for 'stg' on GitHub by visiting:
-    remote:      https://github.com/djiboshin/Unix2022/pull/new/stg
+    remote:      https://github.com/Vin0grad/Unix2023/pull/new/stg
     remote:
-    To https://github.com/djiboshin/Unix2022.git
+    To https://github.com/Vin0grad/Unix2023.git
      * [new branch]      stg -> stg
     ```
     Аналогично с `prd`
