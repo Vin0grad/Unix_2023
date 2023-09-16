@@ -1,1 +1,1 @@
-echo $(date) >> /usr/local/folder_max/output.log
+echo $(date) >> /usr/local/folder_min/output.log
