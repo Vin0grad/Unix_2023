@@ -84,9 +84,9 @@ auto elapsed = std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin)
 ```
 Пример работы:
 ```text
-Int: 999999
-n=999999; solving...
-time per step (us): 0.334021
+Int: 10000
+n=10000; solving...
+time per step (us): 0.0621887
 Int:
 ```
 
